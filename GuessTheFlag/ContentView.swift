@@ -14,6 +14,7 @@ struct ContentView: View {
     var finalScore : Int{
         let score = userScore
         // code to check correct answer
+        // add a condition
         // code to add or subtract points
         
         return score
