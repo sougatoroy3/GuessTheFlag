@@ -20,10 +20,21 @@ Welcome to **GuessTheFlag** — a beautifully designed iOS game built with Swift
 ---
 
 ## 📸 Preview
+<table align="center">
+  <tr>
+    <th>Gameplay</th>
+    <th>Correct Answer Alert</th>
+    <th>Wrong Answer Alert</th>
+    <th>Final Score Alert</th>
+  </tr>
+  <tr>
+    <td><img width="250" height="450" alt="Gameplay" src="https://github.com/user-attachments/assets/c9eb23d7-ed25-490a-a4c7-25ca6e473f22" /></td>
+    <td><img width="250" height="450" alt="Correct Answer" src="https://github.com/user-attachments/assets/4385acd8-5751-46ba-9a7b-8121dd0e206d" /></td>
+    <td><img width="250" height="450" alt="Wrong Answer" src="https://github.com/user-attachments/assets/2d7cf46d-86d9-4459-9199-aa324b6b2e19" /></td>
+    <td><img width="250" height="450" alt="Final Score" src="https://github.com/user-attachments/assets/89ab6a05-379d-46c2-8151-dc6ad1ce897e" /></td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/your-screenshot.png" alt="GuessTheFlag Gameplay Preview" width="300">
-
----
 
 ## 🧑‍💻 Built With
 
