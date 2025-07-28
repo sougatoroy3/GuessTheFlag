@@ -37,11 +37,9 @@ struct ContentView: View {
             userScore -= 1
             showingScore = true
         }
-        
+        chance += 1
         if chance == 8{
             gameOver = true
-        }else{
-            chance += 1
         }
     }
     

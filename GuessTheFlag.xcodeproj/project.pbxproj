@@ -45,6 +45,11 @@
 			path = GuessTheFlagUITests;
 			sourceTree = "<group>";
 		};
+		A023516E2E37F4780020DBB0 /* New Folder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "New Folder";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				A02351472E3666B20020DBB0 /* GuessTheFlagTests */,
 				A02351512E3666B20020DBB0 /* GuessTheFlagUITests */,
 				A02351382E3666B00020DBB0 /* Products */,
+				A023516E2E37F4780020DBB0 /* New Folder */,
 			);
 			sourceTree = "<group>";
 		};
@@ -155,6 +161,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				A02351512E3666B20020DBB0 /* GuessTheFlagUITests */,
+				A023516E2E37F4780020DBB0 /* New Folder */,
 			);
 			name = GuessTheFlagUITests;
 			packageProductDependencies = (
